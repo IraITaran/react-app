@@ -9,6 +9,16 @@ root.render(
   <React.StrictMode>
     <h1>Weather App</h1>
     <Search />
+    <div className="github-link">
+      <a
+        href="https://github.com/IraITaran/react-app"
+        target="_blank"
+        rel="noreferrer"
+      >
+        Open-source code
+      </a>
+      , by Iryna Taran
+    </div>
   </React.StrictMode>
 );
 
